@@ -273,3 +273,9 @@ export default function App() {
     </MobileFrame>
   );
 }
+<button onClick={() => window.open(
+  "https://docs.google.com/document/xxxxx",
+  "_blank"
+)}>
+  Panduan
+</button>
