@@ -1,0 +1,6 @@
+{
+  "name": "SigiMart",
+  "description": "Aplikasi e-grocery modern yang menghubungkan pasar tradisional langsung ke rumah Anda.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
